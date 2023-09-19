@@ -1,0 +1,8 @@
+divexplorer==0.1.1
+librosa==0.10.0.post2
+matplotlib==3.7.1
+numpy==1.24.3
+pandas==1.5.0
+scikit_learn==1.2.2
+torch==2.0.1
+transformers==4.29.2
