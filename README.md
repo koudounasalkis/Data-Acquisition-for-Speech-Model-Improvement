@@ -1,5 +1,7 @@
 # Prioritizing Data Acquisition For End-to-End Speech Model Improvement
 
+[![official paper](https://img.shields.io/badge/paper-ICASSP%202024-b31b1b.svg)](https://ieeexplore.ieee.org/abstract/document/10446326)
+
 This repo contains the code for [**"Prioritizing Data Acquisition For End-to-End Speech Model Improvement"**](https://ieeexplore.ieee.org/abstract/document/10446326), accepted at ICASSP 2024.
 
 In this repository, you will find the code to replicate our experiments.  
